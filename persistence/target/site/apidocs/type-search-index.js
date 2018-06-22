@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"webcrm.persistence","l":"CustomerDAOFactory"},{"p":"webcrm.persistence","l":"ICustomerDAO"},{"p":"webcrm.persistence","l":"UCCustomerDataAccessMock"}]
