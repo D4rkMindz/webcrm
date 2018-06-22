@@ -13,9 +13,6 @@
 	</properties>
 	<modules>
 		<module>persistence</module>
-		<module>business</module>
-		<module>framework</module>
-		<module>client</module>
 	</modules>
 	<build>
 		<finalName>client</finalName>
